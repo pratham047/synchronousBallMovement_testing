@@ -1,1 +1,2 @@
-# synchronousBallMovement_testing
+# synchronousBallMovement
+Ball moving synchronously
